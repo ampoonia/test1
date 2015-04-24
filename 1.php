@@ -8,5 +8,6 @@
 <h3>Testing Git php..</h3>
 <hr/>
 <?php echo "Just another test..."; ?>
+<?php echo "And yes it is working.."; ?>
 </body>
 </html>
